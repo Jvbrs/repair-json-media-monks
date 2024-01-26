@@ -1,8 +1,8 @@
-### Projeto Processo Seletivo Media.Monks
+# Projeto Processo Seletivo Media.Monks
 # Descrição
 Este projeto visa realizar uma análise e a correção em dois arquivos JSON(broken_database_1 e broken_database_2) que estão sendo utilizados como uma base de dados. Após a correção será exportado outros dois arquivos JSON com os dados corrigidos.
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 O projeto é composto pelos seguintes componentes:
 
 1- Arquivos de Dados:
@@ -20,7 +20,7 @@ sql_queries.sql: Contém consultas SQL para análise de dados. As consultas abor
 4- Relatório Final:
 Script SQL que cria uma tabela chamada resultado_final e popula essa tabela com os resultados das análises realizadas.
 
-# Instruções de Uso
+## Instruções de Uso
 Correção de Dados:
 
 Execute o script repairData.js para corrigir dados nos arquivos JSON.
