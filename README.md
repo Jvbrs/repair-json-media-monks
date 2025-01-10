@@ -1,4 +1,4 @@
-# Projeto Processo Seletivo Media.Monks
+# Projeto Organização de Informações JS
 # Descrição
 Este projeto visa realizar uma análise e a correção em dois arquivos JSON(broken_database_1 e broken_database_2) que estão sendo utilizados como uma base de dados. Após a correção será exportado outros dois arquivos JSON com os dados corrigidos.
 
